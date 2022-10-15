@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science, Image Processing/Computer vision.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Danish7190/Data-Science-Portfolio](https://github.com/Danish7190/Data-Science-Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Danish7190/Data-Science-Portfolio](https://github.com/Danish1790/Data-Science-Portfolio)
 
 - 📫 How to reach me **danish.asif.7190@gmail.com**
 
