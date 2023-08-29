@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danish7190" alt="danish7190" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science, Image Processing/Computer vision.**
+- 🌱 I’m currently learning **Cloud Devops & Microservices.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danish7190/Data-Science-Portfolio](https://github.com/Danish1790/Data-Science-Portfolio)
 
