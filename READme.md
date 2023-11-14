@@ -3,13 +3,9 @@
 <h3 align="center">MERN | CICD | Azure | Jenkins | Terraform | DevOps</h3>
 <img align='center' alt='coding' width='400' src='https://cdn.trendhunterstatic.com/phpthumbnails/378/378395/378395_1_600.jpeg?auto=webp' >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danish7190&label=Profile%20views&color=0e75b6&style=flat" alt="danish7190" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danish7190" alt="danish7190" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud Devops & Microservices.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Danish7190/Data-Science-Portfolio](https://github.com/Danish1790/Data-Science-Portfolio)
 
 - 📫 How to reach me **danish.asif.7190@gmail.com**
 
