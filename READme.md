@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Danish Asif</h1>
 <h3 align="center">MERN | CICD | Azure | Jenkins | Terraform | DevOps</h3>
-<img align='center' alt='coding' width='400' src='https://cdn.trendhunterstatic.com/phpthumbnails/378/378395/378395_1_600.jpeg?auto=webp' >
+<img align='center' alt='coding' width='400' style="margin:auto;" src='https://cdn.trendhunterstatic.com/phpthumbnails/378/378395/378395_1_600.jpeg?auto=webp' >
 
 
 - 🌱 I’m currently learning **Cloud Devops & Microservices.**
