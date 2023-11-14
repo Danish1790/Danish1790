@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Danish Asif</h1>
-<h3 align="center"> Cloud Ninja</h3>
+<h3 align="center">MERN | CICD | Azure | Jenkins | Terraform | DevOps</h3>
 <img align='center' alt='coding' width='400' src='https://cdn.trendhunterstatic.com/phpthumbnails/378/378395/378395_1_600.jpeg?auto=webp' >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish7190&label=Profile%20views&color=0e75b6&style=flat" alt="danish7190" /> </p>
