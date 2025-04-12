@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Danish Asif</h1>
-<h3 align="center">Azure AWS GCP Digital Ocean| CICD | Gitlab/Github | Jenkins | Terraform | DevOps</h3>
+<h3 align="center">Azure AWS GCP | CICD | Openshift Kubernetes | Jenkins | Terraform | DevOps</h3>
 <img align='center' alt='coding' width='400' style="margin:auto;" src='https://cdn.trendhunterstatic.com/phpthumbnails/378/378395/378395_1_600.jpeg?auto=webp' >
 
 
